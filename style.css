@@ -1,0 +1,48 @@
+/* Asterisk means everything. */
+* {
+    margin: 0.5%;
+    padding: 0%;
+}
+body {
+    background-color:gold;
+    font-family:"Open Sans";
+    font-size: 18px;
+    width: 60%;
+    margin: auto;
+    border: auto;
+}
+h1 {
+    font-family:"Libre Baskerville";
+    font-weight: bold;
+    font-size: 64px;
+    line-height: 70px;
+    padding-top: 1em;
+    padding-bottom:0.25em;
+}
+h2 {
+    font-family:"Libre Baskerville";
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 60px;
+    padding-top:0.25em;
+}
+h3 {
+    font-family:"Open Sans";
+    font-weight: semi-bold;
+    font-size: 32px;
+    line-height: 55px;
+}
+p {
+    padding-top: 1em;
+    padding-bottom:0.5em;
+}
+a {
+    color:#0033FF;
+    text-decoration:none;
+}
+a:hover {
+    color:#DD00FF;
+}
+ul, ol {
+    margin-left: 20px;
+}
